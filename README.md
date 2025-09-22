@@ -10,6 +10,7 @@ Time spent coding:
 21 Sep | 3h 53m
 20 Sep | 55m
 Total: 6h
+Edited in ~2h
 
 Sources:
 Software & YouTube  
