@@ -1,17 +1,26 @@
 # manim
 
 my friends:
+
 Chatur Gupti
+
 Kapitan Kopilot
+
 Geminoy
+
 
 Time spent coding:
 
 22 Sep | 2h 12m
+
 21 Sep | 3h 53m
+
 20 Sep | 55m
+
 Total: 6h
+
 Edited in ~2h
+
 
 Sources:
 Software & YouTube  
@@ -26,10 +35,15 @@ Slideshare user. (n.d.). *Engineering Curves I: Ellipse. Slideshare. Retrieved S
 
 Images
 https://cdn.britannica.com/94/151894-004-DDBC0EA2/Brown-eggs.jpg?s=1500x700&q=85
+
 https://m.media-amazon.com/images/I/71SB9QaPueL._AC_SY300_SX300_QL70_ML2_.jpg
+
 https://images.gmanews.tv/webpics/2020/02/p190oatnq91bnh1vn57bs7cv3c3_l_2020_02_07_17_49_32.jpg
+
 https://m.media-amazon.com/images/I/41RurwclEVL._SX342_SY445_ML2_.jpg
+
 https://www.onlinemathlearning.com/image-files/euclid-proposition-1.png
+
 
 Academic Sources  
 Benelli, A. (n.d.). Essays on Serlio. Columbia University Libraries. Retrieved September 22, 2025, from https://library.columbia.edu/libraries/avery/digitalserlio/essays/benelli.html  
