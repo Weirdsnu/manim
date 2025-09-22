@@ -9,6 +9,7 @@ Kapitan Kopilot
 Geminoy
 
 
+
 Time spent coding:
 
 22 Sep | 2h 12m
@@ -34,6 +35,7 @@ Slideshare user. (n.d.). *Chapter 04: Pictorial Drawings – Engineering Drawing
 Slideshare user. (n.d.). *Engineering Curves I: Ellipse. Slideshare. Retrieved September 22, 2025, from https://www.slideshare.net/slideshow/engineering-curves-i-ellipse/236828304  
 
 Images
+
 https://cdn.britannica.com/94/151894-004-DDBC0EA2/Brown-eggs.jpg?s=1500x700&q=85
 
 https://m.media-amazon.com/images/I/71SB9QaPueL._AC_SY300_SX300_QL70_ML2_.jpg
