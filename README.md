@@ -1,10 +1,23 @@
 # manim
 
+my friends:
+Chatur Gupti
+Kapitan Kopilot
+Geminoy
+
 Sources:
-https://alchetron.com/Sebastiano-Serlio
-https://www.slideshare.net/slideshow/chapter-04-pictorial-drawings-engineering-drawing-pptx/274348223#24
-https://www.slideshare.net/slideshow/engineering-curves-i-ellipse/236828304#4
-https://library.columbia.edu/content/dam/libraryweb/locations/avery/classics/Serlio/Benelli3.pdf
-https://library.columbia.edu/libraries/avery/digitalserlio/essays/benelli.html
-https://archive.org/details/ldpd_12050504_000/page/n47/mode/2up
-https://archive.org/details/ldpd_11710291_001/page/n17/mode/2up
+Software & YouTube  
+Manim Community. (2024). Manim [Computer software]. GitHub. https://github.com/ManimCommunity/manim  
+Sanderson, G. (2020). Manim [Computer software]. GitHub. https://github.com/3b1b/manim  
+Sanderson, G. (n.d.). 3blue1brown. YouTube., from https://www.youtube.com/c/3blue1brown  
+
+Web Articles & Presentations  
+Alchetron. (n.d.). Sebastiano Serlio. Alchetron. Retrieved September 22, 2025, from https://alchetron.com/Sebastiano-Serlio  
+Slideshare user. (n.d.). *Chapter 04: Pictorial Drawings – Engineering Drawing*. Slideshare. Retrieved September 22, 2025, from https://www.slideshare.net/slideshow/chapter-04-pictorial-drawings-engineering-drawing-pptx/274348223  
+Slideshare user. (n.d.). *Engineering Curves I: Ellipse. Slideshare. Retrieved September 22, 2025, from https://www.slideshare.net/slideshow/engineering-curves-i-ellipse/236828304  
+
+Academic Sources  
+Benelli, A. (n.d.). Essays on Serlio. Columbia University Libraries. Retrieved September 22, 2025, from https://library.columbia.edu/libraries/avery/digitalserlio/essays/benelli.html  
+Benelli, A. (n.d.). Serlio [PDF]. Columbia University Libraries. Retrieved September 22, 2025, from https://library.columbia.edu/content/dam/libraryweb/locations/avery/classics/Serlio/Benelli3.pdf  
+Internet Archive. (n.d.). NA. Retrieved September 22, 2025, from https://archive.org/details/ldpd_12050504_000/page/n47/mode/2up  
+Serlio, S., & Marcolini, F. (n.d.). Regole generali di architetura sopra le cinque maniere de [Book]. Internet Archive. Retrieved September 22, 2025, from https://archive.org/details/ldpd_11710291_001/page/n17/mode/2up  
