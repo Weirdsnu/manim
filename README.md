@@ -5,6 +5,12 @@ Chatur Gupti
 Kapitan Kopilot
 Geminoy
 
+Time spent coding:
+22 Sep | 2h 12m
+21 Sep | 3h 53m
+20 Sep | 55m
+Total: 6h
+
 Sources:
 Software & YouTube  
 Manim Community. (2024). Manim [Computer software]. GitHub. https://github.com/ManimCommunity/manim  
