@@ -18,8 +18,6 @@ Time spent coding:
 
 20 Sep | 55m
 
-Total: 6h
-
 Edited in ~2h
 
 
