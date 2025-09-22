@@ -6,6 +6,7 @@ Kapitan Kopilot
 Geminoy
 
 Time spent coding:
+
 22 Sep | 2h 12m
 21 Sep | 3h 53m
 20 Sep | 55m
